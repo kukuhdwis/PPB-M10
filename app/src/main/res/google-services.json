@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002697476812",
+    "firebase_url": "https://firstfire-cfad0-default-rtdb.firebaseio.com",
+    "project_id": "firstfire-cfad0",
+    "storage_bucket": "firstfire-cfad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002697476812:android:53e055108b1a03ac455069",
+        "android_client_info": {
+          "package_name": "com.example.firebaseppb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002697476812-6ol8m2cc7uecu5mqj9j9e73j8fkh2vst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMufz6IH7NmKcJShUr982JY0q8i5EgY_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002697476812-6ol8m2cc7uecu5mqj9j9e73j8fkh2vst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="default_web_client_id"
+     translatable="false">901851668089-9ksjd2sjt243i50kq4rl1c6ha582i1jf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url"
+        translatable="false">https://fir-ppb-54a03-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId"
+        translatable="false">901851668089</string>
+    <string name="google_api_key"
+        translatable="false">AIzaSyAPs64aeCkX8DWs_nvQ-uNEpvqSCOdbiJs</string
+        >
+    <string name="google_app_id"
+        translatable="false">1:901851668089:android:0e3c2b5f98d51d720e3ea8</string>
+    <string name="google_crash_reporting_api_key"
+        translatable="false">AIzaSyAUevbCUEw24jYzW_IOl4KgfaZhNeMAIKk</string
+        >
+    <string name="google_storage_bucket"
+        translatable="false">fir-ppb-54a03.appspot.com</string>
+    <string name="project_id" translatable="false">fir-ppb-54a03</string>
+</resources>
